@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👋 Hi, I'm **Roozbeh**!<br>I'm a passionate **backend developer** specializing in **Python** and **Django**. I love building scalable web applications and diving deep into data structures and algorithms.<br><br>🚀 What I Do:<br>- **Web Development**: I build web apps with Django, Django REST Framework, and Flask.<br>- **Databases**: Experience with PostgreSQL, MySQL, and Redis.<br><br>🌱 What I'm Learning:<br>- Currently deepening my understanding of **Django** and **REST** APIs for creating robust backend systems.<br>- Interested in learning more about **machine learning** and integrating it into web applications.<br><br>📫 Let's Connect:<br>- Feel free to reach out on [Telegram](https://t.me/roozbehoo), or email me at **[roozbehtavanaee@gmail.com](mailto:roozbehtavanaee@gmail.com)** for any collaboration or inquiries!<br>
 
 
